@@ -14,8 +14,9 @@ c.NotebookApp.open_browser = False
 c.NotebookApp.port = 8888
 ```
 
-$ jupyter notebook password
+Setup a jupyter password
 ```shell
+$ jupyter notebook password
 Enter password:  ****
 Verify password: ****
 ```
